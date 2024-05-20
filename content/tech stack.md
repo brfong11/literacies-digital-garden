@@ -9,7 +9,9 @@ The [Tech Won't Save Us](https://techwontsave.us/) podcast (a digital and audio 
 
 In contrast, this website is written in [obsidian](https://obsidian.md/) a notetaking app that stores the information in local [plain text](https://lib-static.github.io/concepts/plaintext/) [markdown](https://www.markdownguide.org/getting-started/) files. These files are used to generate a [static website](https://lib-static.github.io/concepts/static-site-generators/). 
 
-The design of this project intends to follow the Lib-Static approach, a "development methodology that leverages static web technologies and librarian skills to create engaging web publications hosted on minimal infrastructure."[^4] This [[digital garden]] is [[open ]]source; [check out the code repository.]()
+![[Pasted image 20240520161909.png]]
+
+The design of this project intends to follow the Lib-Static approach, a "development methodology that leverages static web technologies and librarian skills to create engaging web publications hosted on minimal infrastructure."[^4] This [[digital garden]] is [[open ]]source; [check out the code repository.](https://github.com/brfong11/literacies-digital-garden)
 
 By taking an [[open]] approach, this [[digital garden]] intends to disrupt the hegemony of tech capitalist platforms and increase digital [[literacy]] by exposing the how power shapes digital [[text|texts]].
 
