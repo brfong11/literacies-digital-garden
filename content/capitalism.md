@@ -1,0 +1,1 @@
+An economic system based wage slavery.
