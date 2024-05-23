@@ -13,7 +13,7 @@ In contrast, this website is written in [obsidian](https://obsidian.md/) a notet
 
 The design of this project intends to follow the Lib-Static approach, a "development methodology that leverages static web technologies and librarian skills to create engaging web publications hosted on minimal infrastructure."[^4] This [[digital garden]] is [[open ]]source; [check out the code repository.](https://github.com/brfong11/literacies-digital-garden)
 
-By taking an [[open]] approach, this [[digital garden]] intends to disrupt the hegemony of tech capitalist platforms and increase digital [[literacy]] by exposing the how power shapes digital [[text|texts]].
+By taking an [[open]] approach, this [[digital garden]] intends to disrupt the hegemony of tech capitalist platforms and increase digital [[literacy]] by exposing the how [[power shapes digital texts]].
 
 [^1]: Google has a billion dollar contract with the Israeli state to provide the cloud technology that facilitates Israeli apartheid and generates targets (including people in their own homes) for bombing campaigns. Learn more from tech workers fighting back at [No Tech For Apartheid](https://www.notechforapartheid.com/).
 

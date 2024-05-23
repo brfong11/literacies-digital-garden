@@ -4,11 +4,11 @@
 >
 >Open data
 >
-Open content, OER, OA, CC, Public Domain
+>Open content, OER, OA, CC, Public Domain
 >
-Adopting, adapting, re-use
+>Adopting, adapting, re-use
 >
-Working in the open (e.g. on GitHub)
+>Working in the open (e.g. on GitHub)
 >
 >Web code in browser
 >
