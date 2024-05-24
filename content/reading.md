@@ -1,4 +1,4 @@
-My parents taught me how to read. Growing up, my mom would sit us down before bed and read us a picture book. When we got older they became chapter books. Reading biblical texts shaped [[my values]]. Still today, before I read before I sleep.
+My parents taught me how to read. Growing up, my mom would sit us down before bed and read us a picture book. When we got older they became chapter books. Reading biblical texts shaped [[my values]]. Still today, before I go to sleep I read.
 
 My teachers taught me how to read. In high school, I [[wanted to be a programmer]], but Ms. Savin taught me how to read english literature. In her AP Lit class, I learned how to identify literary themes and strategies. How to analyze a [[text]] and ponder its significance. When I got to college, I learned in [[Foundations of History]] how to read in the discipline specific way of history.
 
