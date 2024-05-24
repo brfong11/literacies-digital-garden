@@ -4,17 +4,17 @@ For 20 years of my life, both of my parents were pastors at a community church. 
 
 >Just then a man came up to Jesus and asked, “Teacher, what good thing must I do to get eternal life?”
 >
-“Why do you ask me about what is good?” Jesus replied. “There is only One who is good. If you want to enter life, keep the commandments.”
+>“Why do you ask me about what is good?” Jesus replied. “There is only One who is good. If you want to enter life, keep the commandments.”
 >
-“Which ones?” he inquired.
+>“Which ones?” he inquired.
 >
-Jesus replied, “‘You shall not murder, you shall not commit adultery, you shall not steal, you shall not give false testimony, honor your father and mother,’ and ‘love your neighbor as yourself.’”
+>Jesus replied, “‘You shall not murder, you shall not commit adultery, you shall not steal, you shall not give false testimony, honor your father and mother,’ and ‘love your neighbor as yourself.’”
 >
-“All these I have kept,” the young man said. “What do I still lack?”
+>“All these I have kept,” the young man said. “What do I still lack?”
 >
-Jesus answered, “If you want to be perfect, go, sell your possessions and give to the poor, and you will have treasure in heaven. Then come, follow me.”
+>Jesus answered, “If you want to be perfect, go, sell your possessions and give to the poor, and you will have treasure in heaven. Then come, follow me.”
 >
-When the young man heard this, he went away sad, because he had great wealth.
+>When the young man heard this, he went away sad, because he had great wealth.
 >
 > -- Matthew 19:16-22 NIV
 
