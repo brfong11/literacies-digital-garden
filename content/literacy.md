@@ -1,6 +1,6 @@
 ![[SmartSelect_20240523_163904_Samsung Notes.jpg]]
 
->a "[[my values|moral]]*(ized)* & Racial*(ized)* Project"
+>a "[[my values|moral]]*(ized)* & Racial *(ized)* Project"
 >-- CoCo Massengale, Stanford 2024
 --- 
 >If you can read this sentence and write one of your own, you possess _literacy_.
