@@ -1,4 +1,4 @@
-My senior year, I had an opportunity to complete a Major Honors project where I worked 1:1 with a sociology professor to design and implement a research project. This project taught me a lot about [[literacy]] in the social sciences. 
+My senior year, I had an opportunity to complete a Major Honors project where I worked 1:1 with a sociology professor to design and implement a [research project](https://docs.google.com/document/d/1H19OV4mK9toEwsdCHENpkKtCXku9soM5/edit?usp=sharing&ouid=117462904082302504484&rtpof=true&sd=true). This project taught me a lot about [[literacy]] in the social sciences. 
 
 >The pursuit of freedom is intertwined with literacy and apparent in many social movements, in which internal political education and study are essential to struggle. In many ways, the most organic place for learning is in struggle.
 >- [Leigh Patel; What I learned from debating the Science of Reading more than 20 years ago is still true](https://decolonizing.net/2023/09/25/what-i-learned-from-debating-the-science-of-reading-more-than-20-years-ago-is-still-true/)
